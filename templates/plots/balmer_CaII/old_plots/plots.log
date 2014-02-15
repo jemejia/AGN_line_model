@@ -1,0 +1,1253 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.6.6)  29 JUL 2013 09:41
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**plots.tex
+(./plots.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, et
+hiopic, farsi, arabic, pinyin, croatian, bulgarian, ukrainian, russian, slovak,
+ czech, danish, dutch, usenglishmax, ukenglish, finnish, french, basque, ngerma
+n, german, swissgerman, ngerman-x-2012-05-30, german-x-2012-05-30, monogreek, g
+reek, ibycus, ancientgreek, hungarian, bengali, tamil, hindi, telugu, gujarati,
+ sanskrit, malayalam, kannada, assamese, marathi, oriya, panjabi, italian, lati
+n, latvian, lithuanian, mongolian, mongolianlmc, nynorsk, bokmal, indonesian, e
+speranto, coptic, welsh, irish, interlingua, serbian, serbianc, slovenian, friu
+lan, romansh, estonian, romanian, armenian, uppersorbian, turkish, afrikaans, i
+celandic, kurmanji, polish, portuguese, galician, catalan, spanish, swedish, th
+ai, loaded.
+(./mn2e.cls
+Document Class: mn2e 2001/02/06 v2.2 LaTeX2e MN document class
+Document Style `MN' v2.2, released 2001 February 20
+\math@groups=\toks14
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/cmsy/b/n on input line 223.
+\symbmisymbols=\mathgroup4
+\SFB@measure=\dimen102
+\realparindent=\skip41
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\@indentskip=\skip42
+\smallindent=\skip43
+\@footindent=\skip44
+\@leftskip=\skip45
+\c@dummy=\count85
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip46
+\bibsep=\skip47
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count86
+)
+\c@table=\count87
+\c@figure=\count88
+\mathindent=\dimen103
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip48
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen104
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen105
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks16
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks17
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks18
+\multlinegap=\skip49
+\multlinetaggap=\skip50
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count101
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen115
+\epsfysize=\dimen116
+)
+(/usr/share/texlive/texmf-dist/tex/latex/morefloats/morefloats.sty
+Package: morefloats 2012/01/28 v1.0f Raise limit of unprocessed floats (HMM; DH
+)
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package morefloats Info: Maximum number of possible floats asked for: 36.
+(morefloats)             LaTeX might run out of memory before this
+(morefloats)             (in which case it will notify you).
+(morefloats)              on input line 171.
+\bx@S=\insert233
+\bx@T=\insert232
+\bx@U=\insert231
+\bx@V=\insert230
+\bx@W=\insert229
+\bx@X=\insert228
+\bx@Y=\insert227
+\bx@Z=\insert226
+\bx@AA=\insert225
+\bx@AB=\insert224
+\bx@AC=\insert223
+\bx@AD=\insert222
+\bx@AE=\insert221
+\bx@AF=\insert220
+\bx@AG=\insert219
+\bx@AH=\insert218
+\bx@AI=\insert217
+\bx@AJ=\insert216
+)
+(./plots.aux
+
+LaTeX Warning: Label `fig:landscape' multiply defined.
+
+
+LaTeX Warning: Label `fig:landscape' multiply defined.
+
+
+LaTeX Warning: Label `fig:landscape' multiply defined.
+
+
+LaTeX Warning: Label `fig:landscape' multiply defined.
+
+)
+\openout1 = `plots.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+ (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count102
+\scratchdimen=\dimen117
+\scratchbox=\box28
+\nofMPsegments=\count103
+\nofMParguments=\count104
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count105
+\MPscratchDim=\dimen118
+\MPnumerator=\count106
+\makeMPintoPDFobject=\count107
+\everyMPtoPDFconversion=\toks22
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Try loading font information for U+msa on input line 73.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 73.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+Overfull \hbox (9.39989pt too wide) in paragraph at lines 73--73
+[][]  
+ []
+
+<continuous_0.png, id=1, 586.8324pt x 442.2924pt>
+File: continuous_0.png Graphic file (type png)
+ <use continuous_0.png>
+Package pdftex.def Info: continuous_0.png used on input line 90.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<no_continuous_0.png, id=3, 586.8324pt x 442.2924pt>
+File: no_continuous_0.png Graphic file (type png)
+ <use no_continuous_0.png>
+Package pdftex.def Info: no_continuous_0.png used on input line 92.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<continuous_1.png, id=4, 586.8324pt x 442.2924pt>
+File: continuous_1.png Graphic file (type png)
+ <use continuous_1.png>
+Package pdftex.def Info: continuous_1.png used on input line 93.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<no_continuous_1.png, id=5, 586.8324pt x 442.2924pt>
+File: no_continuous_1.png Graphic file (type png)
+ <use no_continuous_1.png>
+Package pdftex.def Info: no_continuous_1.png used on input line 95.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<continuous_2.png, id=6, 586.8324pt x 442.2924pt>
+File: continuous_2.png Graphic file (type png)
+ <use continuous_2.png>
+Package pdftex.def Info: continuous_2.png used on input line 96.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<no_continuous_2.png, id=7, 586.8324pt x 442.2924pt>
+File: no_continuous_2.png Graphic file (type png)
+ <use no_continuous_2.png>
+Package pdftex.def Info: no_continuous_2.png used on input line 98.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<continuous_3.png, id=8, 586.8324pt x 442.2924pt>
+File: continuous_3.png Graphic file (type png)
+ <use continuous_3.png>
+Package pdftex.def Info: continuous_3.png used on input line 108.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<no_continuous_3.png, id=9, 586.8324pt x 442.2924pt>
+File: no_continuous_3.png Graphic file (type png)
+ <use no_continuous_3.png>
+Package pdftex.def Info: no_continuous_3.png used on input line 110.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<continuous_4.png, id=10, 586.8324pt x 442.2924pt>
+File: continuous_4.png Graphic file (type png)
+ <use continuous_4.png>
+Package pdftex.def Info: continuous_4.png used on input line 111.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<no_continuous_4.png, id=11, 586.8324pt x 442.2924pt>
+File: no_continuous_4.png Graphic file (type png)
+
+<use no_continuous_4.png>
+Package pdftex.def Info: no_continuous_4.png used on input line 113.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+ <continuous_5.png, id=12, 586.8324pt x 442.2924pt>
+File: continuous_5.png Graphic file (type png)
+
+<use continuous_5.png>
+Package pdftex.def Info: continuous_5.png used on input line 114.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+ <no_continuous_5.png, id=13, 586.8324pt x 442.2924pt>
+File: no_continuous_5.png Graphic file (type png)
+
+<use no_continuous_5.png>
+Package pdftex.def Info: no_continuous_5.png used on input line 116.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+ <continuous_6.png, id=14, 586.8324pt x 442.2924pt>
+File: continuous_6.png Graphic file (type png)
+
+<use continuous_6.png>
+Package pdftex.def Info: continuous_6.png used on input line 127.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+ <no_continuous_6.png, id=15, 586.8324pt x 442.2924pt>
+File: no_continuous_6.png Graphic file (type png)
+
+<use no_continuous_6.png>
+Package pdftex.def Info: no_continuous_6.png used on input line 129.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+ <continuous_7.png, id=16, 586.8324pt x 442.2924pt>
+File: continuous_7.png Graphic file (type png)
+
+<use continuous_7.png>
+Package pdftex.def Info: continuous_7.png used on input line 130.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+ <no_continuous_7.png, id=17, 586.8324pt x 442.2924pt>
+File: no_continuous_7.png Graphic file (type png)
+
+<use no_continuous_7.png>
+Package pdftex.def Info: no_continuous_7.png used on input line 132.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+ <continuous_8.png, id=18, 586.8324pt x 442.2924pt>
+File: continuous_8.png Graphic file (type png)
+
+<use continuous_8.png>
+Package pdftex.def Info: continuous_8.png used on input line 147.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+ <no_continuous_8.png, id=19, 586.8324pt x 442.2924pt>
+File: no_continuous_8.png Graphic file (type png)
+
+<use no_continuous_8.png>
+Package pdftex.def Info: no_continuous_8.png used on input line 149.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+ <continuous_9.png, id=20, 586.8324pt x 442.2924pt>
+File: continuous_9.png Graphic file (type png)
+
+<use continuous_9.png>
+Package pdftex.def Info: continuous_9.png used on input line 150.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+ <no_continuous_9.png, id=21, 586.8324pt x 442.2924pt>
+File: no_continuous_9.png Graphic file (type png)
+
+<use no_continuous_9.png>
+Package pdftex.def Info: no_continuous_9.png used on input line 152.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+ <continuous_10.png, id=22, 586.8324pt x 442.2924pt>
+File: continuous_10.png Graphic file (type png)
+
+<use continuous_10.png>
+Package pdftex.def Info: continuous_10.png used on input line 153.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+ <no_continuous_10.png, id=23, 586.8324pt x 442.2924pt>
+File: no_continuous_10.png Graphic file (type png)
+
+<use no_continuous_10.png>
+Package pdftex.def Info: no_continuous_10.png used on input line 155.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 161.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 161.
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2 <./continuous_0.png> <./no_continuous_0.png> <./continuous_1.png> <./no_con
+tinuous_1.png> <./continuous_2.png> <./no_continuous_2.png>]
+<continuous_11.png, id=49, 586.8324pt x 442.2924pt>
+File: continuous_11.png Graphic file (type png)
+ <use continuous_11.png>
+Package pdftex.def Info: continuous_11.png used on input line 165.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<no_continuous_11.png, id=50, 586.8324pt x 442.2924pt>
+File: no_continuous_11.png Graphic file (type png)
+
+<use no_continuous_11.png>
+Package pdftex.def Info: no_continuous_11.png used on input line 167.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+ <continuous_12.png, id=51, 586.8324pt x 442.2924pt>
+File: continuous_12.png Graphic file (type png)
+
+<use continuous_12.png>
+Package pdftex.def Info: continuous_12.png used on input line 168.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+ <no_continuous_12.png, id=52, 586.8324pt x 442.2924pt>
+File: no_continuous_12.png Graphic file (type png)
+
+<use no_continuous_12.png>
+Package pdftex.def Info: no_continuous_12.png used on input line 170.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+ <continuous_13.png, id=53, 586.8324pt x 442.2924pt>
+File: continuous_13.png Graphic file (type png)
+
+<use continuous_13.png>
+Package pdftex.def Info: continuous_13.png used on input line 171.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+ <no_continuous_13.png, id=54, 586.8324pt x 442.2924pt>
+File: no_continuous_13.png Graphic file (type png)
+
+<use no_continuous_13.png>
+Package pdftex.def Info: no_continuous_13.png used on input line 173.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+ <continuous_14.png, id=55, 586.8324pt x 442.2924pt>
+File: continuous_14.png Graphic file (type png)
+
+<use continuous_14.png>
+Package pdftex.def Info: continuous_14.png used on input line 184.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+ <no_continuous_14.png, id=56, 578.16pt x 433.62pt>
+File: no_continuous_14.png Graphic file (type png)
+
+<use no_continuous_14.png>
+Package pdftex.def Info: no_continuous_14.png used on input line 186.
+(pdftex.def)             Requested size: 246.96277pt x 185.22229pt.
+ <continuous_15.png, id=57, 586.8324pt x 442.2924pt>
+File: continuous_15.png Graphic file (type png)
+
+<use continuous_15.png>
+Package pdftex.def Info: continuous_15.png used on input line 187.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+ <no_continuous_15.png, id=58, 586.8324pt x 442.2924pt>
+File: no_continuous_15.png Graphic file (type png)
+
+<use no_continuous_15.png>
+Package pdftex.def Info: no_continuous_15.png used on input line 189.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+ <continuous_16.png, id=59, 586.8324pt x 442.2924pt>
+File: continuous_16.png Graphic file (type png)
+
+<use continuous_16.png>
+Package pdftex.def Info: continuous_16.png used on input line 190.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+ <no_continuous_16.png, id=60, 586.8324pt x 442.2924pt>
+File: no_continuous_16.png Graphic file (type png)
+
+<use no_continuous_16.png>
+Package pdftex.def Info: no_continuous_16.png used on input line 192.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+ <SiIV_0.png, id=61, 586.8324pt x 442.2924pt>
+File: SiIV_0.png Graphic file (type png)
+
+<use SiIV_0.png>
+Package pdftex.def Info: SiIV_0.png used on input line 204.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+ <SiIV_1.png, id=62, 586.8324pt x 442.2924pt>
+File: SiIV_1.png Graphic file (type png)
+ <use SiIV_1.png>
+Package pdftex.def Info: SiIV_1.png used on input line 206.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<SiIV_res_0.png, id=63, 586.8324pt x 442.2924pt>
+File: SiIV_res_0.png Graphic file (type png)
+ <use SiIV_res_0.png>
+Package pdftex.def Info: SiIV_res_0.png used on input line 207.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<SiIV_res_1.png, id=64, 586.8324pt x 442.2924pt>
+File: SiIV_res_1.png Graphic file (type png)
+ <use SiIV_res_1.png>
+Package pdftex.def Info: SiIV_res_1.png used on input line 209.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<SiIV_2.png, id=65, 586.8324pt x 442.2924pt>
+File: SiIV_2.png Graphic file (type png)
+ <use SiIV_2.png>
+Package pdftex.def Info: SiIV_2.png used on input line 218.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<SiIV_3.png, id=66, 586.8324pt x 442.2924pt>
+File: SiIV_3.png Graphic file (type png)
+ <use SiIV_3.png>
+Package pdftex.def Info: SiIV_3.png used on input line 220.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<SiIV_res_2.png, id=67, 586.8324pt x 442.2924pt>
+File: SiIV_res_2.png Graphic file (type png)
+ <use SiIV_res_2.png>
+Package pdftex.def Info: SiIV_res_2.png used on input line 221.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<SiIV_res_3.png, id=68, 586.8324pt x 442.2924pt>
+File: SiIV_res_3.png Graphic file (type png)
+ <use SiIV_res_3.png>
+Package pdftex.def Info: SiIV_res_3.png used on input line 223.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<SiIV_4.png, id=69, 586.8324pt x 442.2924pt>
+File: SiIV_4.png Graphic file (type png)
+ <use SiIV_4.png>
+Package pdftex.def Info: SiIV_4.png used on input line 233.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<SiIV_5.png, id=70, 586.8324pt x 442.2924pt>
+File: SiIV_5.png Graphic file (type png)
+ <use SiIV_5.png>
+Package pdftex.def Info: SiIV_5.png used on input line 235.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<SiIV_res_4.png, id=71, 586.8324pt x 442.2924pt>
+File: SiIV_res_4.png Graphic file (type png)
+ <use SiIV_res_4.png>
+Package pdftex.def Info: SiIV_res_4.png used on input line 236.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<SiIV_res_5.png, id=72, 586.8324pt x 442.2924pt>
+File: SiIV_res_5.png Graphic file (type png)
+ <use SiIV_res_5.png>
+Package pdftex.def Info: SiIV_res_5.png used on input line 238.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<SiIV_6.png, id=73, 586.8324pt x 442.2924pt>
+File: SiIV_6.png Graphic file (type png)
+ <use SiIV_6.png>
+Package pdftex.def Info: SiIV_6.png used on input line 248.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<SiIV_7.png, id=74, 586.8324pt x 442.2924pt>
+File: SiIV_7.png Graphic file (type png)
+ <use SiIV_7.png>
+Package pdftex.def Info: SiIV_7.png used on input line 250.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<SiIV_res_6.png, id=75, 586.8324pt x 442.2924pt>
+File: SiIV_res_6.png Graphic file (type png)
+ <use SiIV_res_6.png>
+Package pdftex.def Info: SiIV_res_6.png used on input line 251.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<SiIV_res_7.png, id=76, 586.8324pt x 442.2924pt>
+File: SiIV_res_7.png Graphic file (type png)
+ <use SiIV_res_7.png>
+Package pdftex.def Info: SiIV_res_7.png used on input line 253.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<SiIV_8.png, id=77, 586.8324pt x 442.2924pt>
+File: SiIV_8.png Graphic file (type png)
+ <use SiIV_8.png>
+Package pdftex.def Info: SiIV_8.png used on input line 262.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<SiIV_9.png, id=78, 586.8324pt x 442.2924pt>
+File: SiIV_9.png Graphic file (type png)
+ <use SiIV_9.png>
+Package pdftex.def Info: SiIV_9.png used on input line 264.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<SiIV_res_8.png, id=79, 586.8324pt x 442.2924pt>
+File: SiIV_res_8.png Graphic file (type png)
+ <use SiIV_res_8.png>
+Package pdftex.def Info: SiIV_res_8.png used on input line 265.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<SiIV_res_9.png, id=80, 586.8324pt x 442.2924pt>
+File: SiIV_res_9.png Graphic file (type png)
+ <use SiIV_res_9.png>
+Package pdftex.def Info: SiIV_res_9.png used on input line 267.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<SiIV_10.png, id=81, 586.8324pt x 442.2924pt>
+File: SiIV_10.png Graphic file (type png)
+ <use SiIV_10.png>
+Package pdftex.def Info: SiIV_10.png used on input line 277.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<SiIV_11.png, id=82, 586.8324pt x 442.2924pt>
+File: SiIV_11.png Graphic file (type png)
+ <use SiIV_11.png>
+Package pdftex.def Info: SiIV_11.png used on input line 279.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<SiIV_res_10.png, id=83, 586.8324pt x 442.2924pt>
+File: SiIV_res_10.png Graphic file (type png)
+ <use SiIV_res_10.png>
+Package pdftex.def Info: SiIV_res_10.png used on input line 280.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<SiIV_res_11.png, id=84, 586.8324pt x 442.2924pt>
+File: SiIV_res_11.png Graphic file (type png)
+ <use SiIV_res_11.png>
+Package pdftex.def Info: SiIV_res_11.png used on input line 282.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<SiIV_12.png, id=85, 586.8324pt x 442.2924pt>
+File: SiIV_12.png Graphic file (type png)
+ <use SiIV_12.png>
+Package pdftex.def Info: SiIV_12.png used on input line 293.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<SiIV_13.png, id=86, 586.8324pt x 442.2924pt>
+File: SiIV_13.png Graphic file (type png)
+ <use SiIV_13.png>
+Package pdftex.def Info: SiIV_13.png used on input line 295.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<SiIV_res_12.png, id=87, 586.8324pt x 442.2924pt>
+File: SiIV_res_12.png Graphic file (type png)
+ <use SiIV_res_12.png>
+Package pdftex.def Info: SiIV_res_12.png used on input line 296.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<SiIV_res_13.png, id=88, 586.8324pt x 442.2924pt>
+File: SiIV_res_13.png Graphic file (type png)
+ <use SiIV_res_13.png>
+Package pdftex.def Info: SiIV_res_13.png used on input line 298.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<SiIV_14.png, id=89, 586.8324pt x 442.2924pt>
+File: SiIV_14.png Graphic file (type png)
+ <use SiIV_14.png>
+Package pdftex.def Info: SiIV_14.png used on input line 308.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<SiIV_15.png, id=90, 586.8324pt x 442.2924pt>
+File: SiIV_15.png Graphic file (type png)
+ <use SiIV_15.png>
+Package pdftex.def Info: SiIV_15.png used on input line 310.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<SiIV_res_14.png, id=91, 586.8324pt x 442.2924pt>
+File: SiIV_res_14.png Graphic file (type png)
+ <use SiIV_res_14.png>
+Package pdftex.def Info: SiIV_res_14.png used on input line 311.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<SiIV_res_15.png, id=92, 586.8324pt x 442.2924pt>
+File: SiIV_res_15.png Graphic file (type png)
+ <use SiIV_res_15.png>
+Package pdftex.def Info: SiIV_res_15.png used on input line 313.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<SiIV_16.png, id=93, 586.8324pt x 442.2924pt>
+File: SiIV_16.png Graphic file (type png)
+ <use SiIV_16.png>
+Package pdftex.def Info: SiIV_16.png used on input line 323.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<SiIV_res_16.png, id=94, 586.8324pt x 442.2924pt>
+File: SiIV_res_16.png Graphic file (type png)
+ <use SiIV_res_16.png>
+Package pdftex.def Info: SiIV_res_16.png used on input line 325.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<C_0.png, id=95, 586.8324pt x 442.2924pt>
+File: C_0.png Graphic file (type png)
+ <use C_0.png>
+Package pdftex.def Info: C_0.png used on input line 340.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<C_1.png, id=96, 586.8324pt x 442.2924pt>
+File: C_1.png Graphic file (type png)
+ <use C_1.png>
+Package pdftex.def Info: C_1.png used on input line 342.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<C_res_0.png, id=97, 586.8324pt x 442.2924pt>
+File: C_res_0.png Graphic file (type png)
+ <use C_res_0.png>
+Package pdftex.def Info: C_res_0.png used on input line 343.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<C_res_1.png, id=98, 586.8324pt x 442.2924pt>
+File: C_res_1.png Graphic file (type png)
+ <use C_res_1.png>
+Package pdftex.def Info: C_res_1.png used on input line 345.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+ [3 <./continuous_3.png> <./no_continuous_3.png> <./continuous_4.png> <./no_con
+tinuous_4.png> <./continuous_5.png> <./no_continuous_5.png>]
+<C_2.png, id=108, 586.8324pt x 442.2924pt>
+File: C_2.png Graphic file (type png)
+ <use C_2.png>
+Package pdftex.def Info: C_2.png used on input line 354.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<C_3.png, id=109, 586.8324pt x 442.2924pt>
+File: C_3.png Graphic file (type png)
+ <use C_3.png>
+Package pdftex.def Info: C_3.png used on input line 356.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<C_res_2.png, id=110, 586.8324pt x 442.2924pt>
+File: C_res_2.png Graphic file (type png)
+ <use C_res_2.png>
+Package pdftex.def Info: C_res_2.png used on input line 357.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<C_res_3.png, id=111, 586.8324pt x 442.2924pt>
+File: C_res_3.png Graphic file (type png)
+ <use C_res_3.png>
+Package pdftex.def Info: C_res_3.png used on input line 359.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<C_4.png, id=112, 586.8324pt x 442.2924pt>
+File: C_4.png Graphic file (type png)
+ <use C_4.png>
+Package pdftex.def Info: C_4.png used on input line 369.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<C_5.png, id=113, 586.8324pt x 442.2924pt>
+File: C_5.png Graphic file (type png)
+ <use C_5.png>
+Package pdftex.def Info: C_5.png used on input line 371.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<C_res_4.png, id=114, 586.8324pt x 442.2924pt>
+File: C_res_4.png Graphic file (type png)
+ <use C_res_4.png>
+Package pdftex.def Info: C_res_4.png used on input line 372.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<C_res_5.png, id=115, 586.8324pt x 442.2924pt>
+File: C_res_5.png Graphic file (type png)
+ <use C_res_5.png>
+Package pdftex.def Info: C_res_5.png used on input line 374.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<C_6.png, id=116, 586.8324pt x 442.2924pt>
+File: C_6.png Graphic file (type png)
+ <use C_6.png>
+Package pdftex.def Info: C_6.png used on input line 384.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<C_7.png, id=117, 586.8324pt x 442.2924pt>
+File: C_7.png Graphic file (type png)
+ <use C_7.png>
+Package pdftex.def Info: C_7.png used on input line 386.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<C_res_6.png, id=118, 586.8324pt x 442.2924pt>
+File: C_res_6.png Graphic file (type png)
+ <use C_res_6.png>
+Package pdftex.def Info: C_res_6.png used on input line 387.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<C_res_7.png, id=119, 586.8324pt x 442.2924pt>
+File: C_res_7.png Graphic file (type png)
+ <use C_res_7.png>
+Package pdftex.def Info: C_res_7.png used on input line 389.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<C_8.png, id=120, 586.8324pt x 442.2924pt>
+File: C_8.png Graphic file (type png)
+ <use C_8.png>
+Package pdftex.def Info: C_8.png used on input line 398.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<C_9.png, id=121, 586.8324pt x 442.2924pt>
+File: C_9.png Graphic file (type png)
+ <use C_9.png>
+Package pdftex.def Info: C_9.png used on input line 400.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<C_res_8.png, id=122, 586.8324pt x 442.2924pt>
+File: C_res_8.png Graphic file (type png)
+ <use C_res_8.png>
+Package pdftex.def Info: C_res_8.png used on input line 401.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<C_res_9.png, id=123, 586.8324pt x 442.2924pt>
+File: C_res_9.png Graphic file (type png)
+ <use C_res_9.png>
+Package pdftex.def Info: C_res_9.png used on input line 403.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<C_10.png, id=124, 586.8324pt x 442.2924pt>
+File: C_10.png Graphic file (type png)
+ <use C_10.png>
+Package pdftex.def Info: C_10.png used on input line 413.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<C_11.png, id=125, 586.8324pt x 442.2924pt>
+File: C_11.png Graphic file (type png)
+ <use C_11.png>
+Package pdftex.def Info: C_11.png used on input line 415.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<C_res_10.png, id=126, 586.8324pt x 442.2924pt>
+File: C_res_10.png Graphic file (type png)
+ <use C_res_10.png>
+Package pdftex.def Info: C_res_10.png used on input line 416.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<C_res_11.png, id=127, 586.8324pt x 442.2924pt>
+File: C_res_11.png Graphic file (type png)
+ <use C_res_11.png>
+Package pdftex.def Info: C_res_11.png used on input line 418.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<C_12.png, id=128, 586.8324pt x 442.2924pt>
+File: C_12.png Graphic file (type png)
+ <use C_12.png>
+Package pdftex.def Info: C_12.png used on input line 430.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<C_13.png, id=129, 586.8324pt x 442.2924pt>
+File: C_13.png Graphic file (type png)
+ <use C_13.png>
+Package pdftex.def Info: C_13.png used on input line 432.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<C_res_12.png, id=130, 586.8324pt x 442.2924pt>
+File: C_res_12.png Graphic file (type png)
+ <use C_res_12.png>
+Package pdftex.def Info: C_res_12.png used on input line 433.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<C_res_13.png, id=131, 586.8324pt x 442.2924pt>
+File: C_res_13.png Graphic file (type png)
+ <use C_res_13.png>
+Package pdftex.def Info: C_res_13.png used on input line 435.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<C_14.png, id=132, 586.8324pt x 442.2924pt>
+File: C_14.png Graphic file (type png)
+ <use C_14.png>
+Package pdftex.def Info: C_14.png used on input line 445.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<C_15.png, id=133, 586.8324pt x 442.2924pt>
+File: C_15.png Graphic file (type png)
+ <use C_15.png>
+Package pdftex.def Info: C_15.png used on input line 447.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<C_res_14.png, id=134, 586.8324pt x 442.2924pt>
+File: C_res_14.png Graphic file (type png)
+ <use C_res_14.png>
+Package pdftex.def Info: C_res_14.png used on input line 448.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<C_res_15.png, id=135, 586.8324pt x 442.2924pt>
+File: C_res_15.png Graphic file (type png)
+ <use C_res_15.png>
+Package pdftex.def Info: C_res_15.png used on input line 450.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<C_16.png, id=136, 586.8324pt x 442.2924pt>
+File: C_16.png Graphic file (type png)
+ <use C_16.png>
+Package pdftex.def Info: C_16.png used on input line 460.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<C_res_16.png, id=137, 586.8324pt x 442.2924pt>
+File: C_res_16.png Graphic file (type png)
+ <use C_res_16.png>
+Package pdftex.def Info: C_res_16.png used on input line 462.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<Halpha_0.png, id=138, 586.8324pt x 442.2924pt>
+File: Halpha_0.png Graphic file (type png)
+ <use Halpha_0.png>
+Package pdftex.def Info: Halpha_0.png used on input line 477.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<Halpha_1.png, id=139, 586.8324pt x 442.2924pt>
+File: Halpha_1.png Graphic file (type png)
+ <use Halpha_1.png>
+Package pdftex.def Info: Halpha_1.png used on input line 479.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<Halpha_res_0.png, id=140, 586.8324pt x 442.2924pt>
+File: Halpha_res_0.png Graphic file (type png)
+ <use Halpha_res_0.png>
+Package pdftex.def Info: Halpha_res_0.png used on input line 480.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<Halpha_res_1.png, id=141, 586.8324pt x 442.2924pt>
+File: Halpha_res_1.png Graphic file (type png)
+ <use Halpha_res_1.png>
+Package pdftex.def Info: Halpha_res_1.png used on input line 482.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<Halpha_2.png, id=142, 586.8324pt x 442.2924pt>
+File: Halpha_2.png Graphic file (type png)
+ <use Halpha_2.png>
+Package pdftex.def Info: Halpha_2.png used on input line 491.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<Halpha_3.png, id=143, 586.8324pt x 442.2924pt>
+File: Halpha_3.png Graphic file (type png)
+ <use Halpha_3.png>
+Package pdftex.def Info: Halpha_3.png used on input line 493.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<Halpha_res_2.png, id=144, 586.8324pt x 442.2924pt>
+File: Halpha_res_2.png Graphic file (type png)
+ <use Halpha_res_2.png>
+Package pdftex.def Info: Halpha_res_2.png used on input line 494.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<Halpha_res_3.png, id=145, 586.8324pt x 442.2924pt>
+File: Halpha_res_3.png Graphic file (type png)
+ <use Halpha_res_3.png>
+Package pdftex.def Info: Halpha_res_3.png used on input line 496.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<Halpha_4.png, id=146, 586.8324pt x 442.2924pt>
+File: Halpha_4.png Graphic file (type png)
+ <use Halpha_4.png>
+Package pdftex.def Info: Halpha_4.png used on input line 506.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<Halpha_5.png, id=147, 586.8324pt x 442.2924pt>
+File: Halpha_5.png Graphic file (type png)
+ <use Halpha_5.png>
+Package pdftex.def Info: Halpha_5.png used on input line 508.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<Halpha_res_4.png, id=148, 586.8324pt x 442.2924pt>
+File: Halpha_res_4.png Graphic file (type png)
+ <use Halpha_res_4.png>
+Package pdftex.def Info: Halpha_res_4.png used on input line 509.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<Halpha_res_5.png, id=149, 586.8324pt x 442.2924pt>
+File: Halpha_res_5.png Graphic file (type png)
+ <use Halpha_res_5.png>
+Package pdftex.def Info: Halpha_res_5.png used on input line 511.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<Halpha_6.png, id=150, 586.8324pt x 442.2924pt>
+File: Halpha_6.png Graphic file (type png)
+ <use Halpha_6.png>
+Package pdftex.def Info: Halpha_6.png used on input line 521.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<Halpha_7.png, id=151, 586.8324pt x 442.2924pt>
+File: Halpha_7.png Graphic file (type png)
+ <use Halpha_7.png>
+Package pdftex.def Info: Halpha_7.png used on input line 523.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<Halpha_res_6.png, id=152, 586.8324pt x 442.2924pt>
+File: Halpha_res_6.png Graphic file (type png)
+ <use Halpha_res_6.png>
+Package pdftex.def Info: Halpha_res_6.png used on input line 524.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<Halpha_res_7.png, id=153, 586.8324pt x 442.2924pt>
+File: Halpha_res_7.png Graphic file (type png)
+ <use Halpha_res_7.png>
+Package pdftex.def Info: Halpha_res_7.png used on input line 526.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<Halpha_8.png, id=154, 586.8324pt x 442.2924pt>
+File: Halpha_8.png Graphic file (type png)
+ <use Halpha_8.png>
+Package pdftex.def Info: Halpha_8.png used on input line 535.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<Halpha_9.png, id=155, 586.8324pt x 442.2924pt>
+File: Halpha_9.png Graphic file (type png)
+ <use Halpha_9.png>
+Package pdftex.def Info: Halpha_9.png used on input line 537.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<Halpha_res_8.png, id=156, 586.8324pt x 442.2924pt>
+File: Halpha_res_8.png Graphic file (type png)
+ <use Halpha_res_8.png>
+Package pdftex.def Info: Halpha_res_8.png used on input line 538.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<Halpha_res_9.png, id=157, 586.8324pt x 442.2924pt>
+File: Halpha_res_9.png Graphic file (type png)
+ <use Halpha_res_9.png>
+Package pdftex.def Info: Halpha_res_9.png used on input line 540.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<Halpha_10.png, id=158, 586.8324pt x 442.2924pt>
+File: Halpha_10.png Graphic file (type png)
+ <use Halpha_10.png>
+Package pdftex.def Info: Halpha_10.png used on input line 550.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<Halpha_11.png, id=159, 586.8324pt x 442.2924pt>
+File: Halpha_11.png Graphic file (type png)
+ <use Halpha_11.png>
+Package pdftex.def Info: Halpha_11.png used on input line 552.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<Halpha_res_10.png, id=160, 586.8324pt x 442.2924pt>
+File: Halpha_res_10.png Graphic file (type png)
+ <use Halpha_res_10.png>
+Package pdftex.def Info: Halpha_res_10.png used on input line 553.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<Halpha_res_11.png, id=161, 586.8324pt x 442.2924pt>
+File: Halpha_res_11.png Graphic file (type png)
+ <use Halpha_res_11.png>
+Package pdftex.def Info: Halpha_res_11.png used on input line 555.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<Halpha_12.png, id=162, 586.8324pt x 442.2924pt>
+File: Halpha_12.png Graphic file (type png)
+ <use Halpha_12.png>
+Package pdftex.def Info: Halpha_12.png used on input line 566.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<Halpha_13.png, id=163, 586.8324pt x 442.2924pt>
+File: Halpha_13.png Graphic file (type png)
+ <use Halpha_13.png>
+Package pdftex.def Info: Halpha_13.png used on input line 568.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<Halpha_res_12.png, id=164, 586.8324pt x 442.2924pt>
+File: Halpha_res_12.png Graphic file (type png)
+ <use Halpha_res_12.png>
+Package pdftex.def Info: Halpha_res_12.png used on input line 569.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<Halpha_res_13.png, id=165, 586.8324pt x 442.2924pt>
+File: Halpha_res_13.png Graphic file (type png)
+ <use Halpha_res_13.png>
+Package pdftex.def Info: Halpha_res_13.png used on input line 571.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<Halpha_14.png, id=166, 586.8324pt x 442.2924pt>
+File: Halpha_14.png Graphic file (type png)
+ <use Halpha_14.png>
+Package pdftex.def Info: Halpha_14.png used on input line 581.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<Halpha_15.png, id=167, 586.8324pt x 442.2924pt>
+File: Halpha_15.png Graphic file (type png)
+ <use Halpha_15.png>
+Package pdftex.def Info: Halpha_15.png used on input line 583.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<Halpha_res_14.png, id=168, 586.8324pt x 442.2924pt>
+File: Halpha_res_14.png Graphic file (type png)
+ <use Halpha_res_14.png>
+Package pdftex.def Info: Halpha_res_14.png used on input line 584.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<Halpha_res_15.png, id=169, 586.8324pt x 442.2924pt>
+File: Halpha_res_15.png Graphic file (type png)
+ <use Halpha_res_15.png>
+Package pdftex.def Info: Halpha_res_15.png used on input line 586.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<Halpha_16.png, id=170, 586.8324pt x 442.2924pt>
+File: Halpha_16.png Graphic file (type png)
+ <use Halpha_16.png>
+Package pdftex.def Info: Halpha_16.png used on input line 596.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<Halpha_res_16.png, id=171, 586.8324pt x 442.2924pt>
+File: Halpha_res_16.png Graphic file (type png)
+ <use Halpha_res_16.png>
+Package pdftex.def Info: Halpha_res_16.png used on input line 598.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+[4
+
+ <./continuous_6.png> <./no_continuous_6.png> <./continuous_7.png> <./no_contin
+uous_7.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5 <./continuous_8.png> <./no_continuous_8.png> <./continuous_9.png> <./no_con
+tinuous_9.png> <./continuous_10.png> <./no_continuous_10.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6 <./continuous_11.png> <./no_continuous_11.png> <./continuous_12.png> <./no_
+continuous_12.png> <./continuous_13.png> <./no_continuous_13.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7 <./continuous_14.png> <./no_continuous_14.png> <./continuous_15.png> <./no_
+continuous_15.png> <./continuous_16.png> <./no_continuous_16.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8 <./SiIV_0.png> <./SiIV_1.png> <./SiIV_res_0.png> <./SiIV_res_1.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9 <./SiIV_2.png> <./SiIV_3.png> <./SiIV_res_2.png> <./SiIV_res_3.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10 <./SiIV_4.png> <./SiIV_5.png> <./SiIV_res_4.png> <./SiIV_res_5.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11 <./SiIV_6.png> <./SiIV_7.png> <./SiIV_res_6.png> <./SiIV_res_7.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12 <./SiIV_8.png> <./SiIV_9.png> <./SiIV_res_8.png> <./SiIV_res_9.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13 <./SiIV_10.png> <./SiIV_11.png> <./SiIV_res_10.png> <./SiIV_res_11.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14 <./SiIV_12.png> <./SiIV_13.png> <./SiIV_res_12.png> <./SiIV_res_13.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15 <./SiIV_14.png> <./SiIV_15.png> <./SiIV_res_14.png> <./SiIV_res_15.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16 <./SiIV_16.png> <./SiIV_res_16.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17 <./C_0.png> <./C_1.png> <./C_res_0.png> <./C_res_1.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18 <./C_2.png> <./C_3.png> <./C_res_2.png> <./C_res_3.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19 <./C_4.png> <./C_5.png> <./C_res_4.png> <./C_res_5.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20 <./C_6.png> <./C_7.png> <./C_res_6.png> <./C_res_7.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21 <./C_8.png> <./C_9.png> <./C_res_8.png> <./C_res_9.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22 <./C_10.png> <./C_11.png> <./C_res_10.png> <./C_res_11.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23 <./C_12.png> <./C_13.png> <./C_res_12.png> <./C_res_13.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [24 <./C_14.png> <./C_15.png> <./C_res_14.png> <./C_res_15.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [25 <./C_16.png> <./C_res_16.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26 <./Halpha_0.png> <./Halpha_1.png> <./Halpha_res_0.png> <./Halpha_res_1.png
+>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27 <./Halpha_2.png> <./Halpha_3.png> <./Halpha_res_2.png> <./Halpha_res_3.png
+>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [28 <./Halpha_4.png> <./Halpha_5.png> <./Halpha_res_4.png> <./Halpha_res_5.png
+>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29 <./Halpha_6.png> <./Halpha_7.png> <./Halpha_res_6.png> <./Halpha_res_7.png
+>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [30 <./Halpha_8.png> <./Halpha_9.png> <./Halpha_res_8.png> <./Halpha_res_9.png
+>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [31 <./Halpha_10.png> <./Halpha_11.png> <./Halpha_res_10.png> <./Halpha_res_11
+.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [32 <./Halpha_12.png> <./Halpha_13.png> <./Halpha_res_12.png> <./Halpha_res_13
+.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [33 <./Halpha_14.png> <./Halpha_15.png> <./Halpha_res_14.png> <./Halpha_res_15
+.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [34 <./Halpha_16.png> <./Halpha_res_16.png>] (./plots.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3761 strings out of 493485
+ 50304 string characters out of 3143527
+ 120826 words of memory out of 3000000
+ 6878 multiletter control sequences out of 15000+200000
+ 17517 words of font info for 64 fonts, out of 3000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 36i,11n,34p,288b,293s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
+Output written on plots.pdf (34 pages, 6068810 bytes).
+PDF statistics:
+ 435 PDF objects out of 1000 (max. 8388607)
+ 113 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 681 words of extra memory for PDF output out of 10000 (max. 10000000)
+

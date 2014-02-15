@@ -1,0 +1,936 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.6.6)  29 JUL 2013 09:47
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**plots_mg.tex
+(./plots_mg.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, et
+hiopic, farsi, arabic, pinyin, croatian, bulgarian, ukrainian, russian, slovak,
+ czech, danish, dutch, usenglishmax, ukenglish, finnish, french, basque, ngerma
+n, german, swissgerman, ngerman-x-2012-05-30, german-x-2012-05-30, monogreek, g
+reek, ibycus, ancientgreek, hungarian, bengali, tamil, hindi, telugu, gujarati,
+ sanskrit, malayalam, kannada, assamese, marathi, oriya, panjabi, italian, lati
+n, latvian, lithuanian, mongolian, mongolianlmc, nynorsk, bokmal, indonesian, e
+speranto, coptic, welsh, irish, interlingua, serbian, serbianc, slovenian, friu
+lan, romansh, estonian, romanian, armenian, uppersorbian, turkish, afrikaans, i
+celandic, kurmanji, polish, portuguese, galician, catalan, spanish, swedish, th
+ai, loaded.
+(./mn2e.cls
+Document Class: mn2e 2001/02/06 v2.2 LaTeX2e MN document class
+Document Style `MN' v2.2, released 2001 February 20
+\math@groups=\toks14
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/cmsy/b/n on input line 223.
+\symbmisymbols=\mathgroup4
+\SFB@measure=\dimen102
+\realparindent=\skip41
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\@indentskip=\skip42
+\smallindent=\skip43
+\@footindent=\skip44
+\@leftskip=\skip45
+\c@dummy=\count85
+(/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip46
+\bibsep=\skip47
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count86
+)
+\c@table=\count87
+\c@figure=\count88
+\mathindent=\dimen103
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip48
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks15
+\ex@=\dimen104
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen105
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks16
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks17
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks18
+\multlinegap=\skip49
+\multlinetaggap=\skip50
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count101
+))
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen115
+\epsfysize=\dimen116
+)
+(/usr/share/texlive/texmf-dist/tex/latex/morefloats/morefloats.sty
+Package: morefloats 2012/01/28 v1.0f Raise limit of unprocessed floats (HMM; DH
+)
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package morefloats Info: Maximum number of possible floats asked for: 36.
+(morefloats)             LaTeX might run out of memory before this
+(morefloats)             (in which case it will notify you).
+(morefloats)              on input line 171.
+\bx@S=\insert233
+\bx@T=\insert232
+\bx@U=\insert231
+\bx@V=\insert230
+\bx@W=\insert229
+\bx@X=\insert228
+\bx@Y=\insert227
+\bx@Z=\insert226
+\bx@AA=\insert225
+\bx@AB=\insert224
+\bx@AC=\insert223
+\bx@AD=\insert222
+\bx@AE=\insert221
+\bx@AF=\insert220
+\bx@AG=\insert219
+\bx@AH=\insert218
+\bx@AI=\insert217
+\bx@AJ=\insert216
+)
+(./plots_mg.aux
+
+LaTeX Warning: Label `fig:landscape' multiply defined.
+
+
+LaTeX Warning: Label `fig:landscape' multiply defined.
+
+
+LaTeX Warning: Label `fig:landscape' multiply defined.
+
+
+LaTeX Warning: Label `fig:landscape' multiply defined.
+
+
+LaTeX Warning: Label `fig:landscape' multiply defined.
+
+
+LaTeX Warning: Label `fig:landscape' multiply defined.
+
+
+LaTeX Warning: Label `fig:landscape' multiply defined.
+
+
+LaTeX Warning: Label `fig:landscape' multiply defined.
+
+
+LaTeX Warning: Label `fig:landscape' multiply defined.
+
+
+LaTeX Warning: Label `fig:landscape' multiply defined.
+
+
+LaTeX Warning: Label `fig:landscape' multiply defined.
+
+
+LaTeX Warning: Label `fig:landscape' multiply defined.
+
+
+LaTeX Warning: Label `fig:landscape' multiply defined.
+
+
+LaTeX Warning: Label `fig:landscape' multiply defined.
+
+
+LaTeX Warning: Label `fig:landscape' multiply defined.
+
+
+LaTeX Warning: Label `fig:landscape' multiply defined.
+
+
+LaTeX Warning: Label `fig:landscape' multiply defined.
+
+
+LaTeX Warning: Label `fig:landscape' multiply defined.
+
+
+LaTeX Warning: Label `fig:landscape' multiply defined.
+
+)
+\openout1 = `plots_mg.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 61.
+LaTeX Font Info:    ... okay on input line 61.
+ (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count102
+\scratchdimen=\dimen117
+\scratchbox=\box28
+\nofMPsegments=\count103
+\nofMParguments=\count104
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count105
+\MPscratchDim=\dimen118
+\MPnumerator=\count106
+\makeMPintoPDFobject=\count107
+\everyMPtoPDFconversion=\toks22
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Try loading font information for U+msa on input line 73.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 73.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+Overfull \hbox (9.39989pt too wide) in paragraph at lines 73--73
+[][]  
+ []
+
+<fe_fit_MgII_0.png, id=1, 586.8324pt x 442.2924pt>
+File: fe_fit_MgII_0.png Graphic file (type png)
+ <use fe_fit_MgII_0.png>
+Package pdftex.def Info: fe_fit_MgII_0.png used on input line 90.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<fe_fit_MgII_1.png, id=3, 586.8324pt x 442.2924pt>
+File: fe_fit_MgII_1.png Graphic file (type png)
+ <use fe_fit_MgII_1.png>
+Package pdftex.def Info: fe_fit_MgII_1.png used on input line 92.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<fe_fit_MgII_res_0.png, id=4, 586.8324pt x 442.2924pt>
+File: fe_fit_MgII_res_0.png Graphic file (type png)
+
+<use fe_fit_MgII_res_0.png>
+Package pdftex.def Info: fe_fit_MgII_res_0.png used on input line 93.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<fe_fit_MgII_res_1.png, id=5, 586.8324pt x 442.2924pt>
+File: fe_fit_MgII_res_1.png Graphic file (type png)
+
+<use fe_fit_MgII_res_1.png>
+Package pdftex.def Info: fe_fit_MgII_res_1.png used on input line 95.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+ <fe_fit_MgII_2.png, id=6, 586.8324pt x 442.2924pt>
+File: fe_fit_MgII_2.png Graphic file (type png)
+
+<use fe_fit_MgII_2.png>
+Package pdftex.def Info: fe_fit_MgII_2.png used on input line 104.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+ <fe_fit_MgII_3.png, id=7, 586.8324pt x 442.2924pt>
+File: fe_fit_MgII_3.png Graphic file (type png)
+
+<use fe_fit_MgII_3.png>
+Package pdftex.def Info: fe_fit_MgII_3.png used on input line 106.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+ <fe_fit_MgII_res_2.png, id=8, 586.8324pt x 442.2924pt>
+File: fe_fit_MgII_res_2.png Graphic file (type png)
+
+<use fe_fit_MgII_res_2.png>
+Package pdftex.def Info: fe_fit_MgII_res_2.png used on input line 107.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<fe_fit_MgII_res_3.png, id=9, 586.8324pt x 442.2924pt>
+File: fe_fit_MgII_res_3.png Graphic file (type png)
+
+<use fe_fit_MgII_res_3.png>
+Package pdftex.def Info: fe_fit_MgII_res_3.png used on input line 109.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<fe_fit_MgII_4.png, id=10, 586.8324pt x 442.2924pt>
+File: fe_fit_MgII_4.png Graphic file (type png)
+ <use fe_fit_MgII_4.png>
+Package pdftex.def Info: fe_fit_MgII_4.png used on input line 119.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<fe_fit_MgII_5.png, id=11, 586.8324pt x 442.2924pt>
+File: fe_fit_MgII_5.png Graphic file (type png)
+ <use fe_fit_MgII_5.png>
+Package pdftex.def Info: fe_fit_MgII_5.png used on input line 121.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<fe_fit_MgII_res_4.png, id=12, 586.8324pt x 442.2924pt>
+File: fe_fit_MgII_res_4.png Graphic file (type png)
+
+<use fe_fit_MgII_res_4.png>
+Package pdftex.def Info: fe_fit_MgII_res_4.png used on input line 122.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<fe_fit_MgII_res_5.png, id=13, 586.8324pt x 442.2924pt>
+File: fe_fit_MgII_res_5.png Graphic file (type png)
+
+<use fe_fit_MgII_res_5.png>
+Package pdftex.def Info: fe_fit_MgII_res_5.png used on input line 124.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<fe_fit_MgII_6.png, id=14, 586.8324pt x 442.2924pt>
+File: fe_fit_MgII_6.png Graphic file (type png)
+ <use fe_fit_MgII_6.png>
+Package pdftex.def Info: fe_fit_MgII_6.png used on input line 134.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<fe_fit_MgII_7.png, id=15, 586.8324pt x 442.2924pt>
+File: fe_fit_MgII_7.png Graphic file (type png)
+ <use fe_fit_MgII_7.png>
+Package pdftex.def Info: fe_fit_MgII_7.png used on input line 136.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<fe_fit_MgII_res_6.png, id=16, 586.8324pt x 442.2924pt>
+File: fe_fit_MgII_res_6.png Graphic file (type png)
+
+<use fe_fit_MgII_res_6.png>
+Package pdftex.def Info: fe_fit_MgII_res_6.png used on input line 137.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<fe_fit_MgII_res_7.png, id=17, 586.8324pt x 442.2924pt>
+File: fe_fit_MgII_res_7.png Graphic file (type png)
+
+<use fe_fit_MgII_res_7.png>
+Package pdftex.def Info: fe_fit_MgII_res_7.png used on input line 139.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<fe_fit_MgII_8.png, id=18, 586.8324pt x 442.2924pt>
+File: fe_fit_MgII_8.png Graphic file (type png)
+ <use fe_fit_MgII_8.png>
+Package pdftex.def Info: fe_fit_MgII_8.png used on input line 148.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<fe_fit_MgII_9.png, id=19, 586.8324pt x 442.2924pt>
+File: fe_fit_MgII_9.png Graphic file (type png)
+ <use fe_fit_MgII_9.png>
+Package pdftex.def Info: fe_fit_MgII_9.png used on input line 150.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<fe_fit_MgII_res_8.png, id=20, 586.8324pt x 442.2924pt>
+File: fe_fit_MgII_res_8.png Graphic file (type png)
+
+<use fe_fit_MgII_res_8.png>
+Package pdftex.def Info: fe_fit_MgII_res_8.png used on input line 151.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<fe_fit_MgII_res_9.png, id=21, 586.8324pt x 442.2924pt>
+File: fe_fit_MgII_res_9.png Graphic file (type png)
+
+<use fe_fit_MgII_res_9.png>
+Package pdftex.def Info: fe_fit_MgII_res_9.png used on input line 153.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+ <MgII_0.png, id=22, 586.8324pt x 442.2924pt>
+File: MgII_0.png Graphic file (type png)
+
+<use MgII_0.png>
+Package pdftex.def Info: MgII_0.png used on input line 165.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+ <MgII_1.png, id=23, 586.8324pt x 442.2924pt>
+File: MgII_1.png Graphic file (type png)
+ <use MgII_1.png>
+Package pdftex.def Info: MgII_1.png used on input line 167.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<MgII_res_0.png, id=24, 586.8324pt x 442.2924pt>
+File: MgII_res_0.png Graphic file (type png)
+ <use MgII_res_0.png>
+Package pdftex.def Info: MgII_res_0.png used on input line 168.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<MgII_res_1.png, id=25, 586.8324pt x 442.2924pt>
+File: MgII_res_1.png Graphic file (type png)
+ <use MgII_res_1.png>
+Package pdftex.def Info: MgII_res_1.png used on input line 170.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 175.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 175.
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+] <MgII_2.png, id=41, 586.8324pt x 442.2924pt>
+File: MgII_2.png Graphic file (type png)
+
+<use MgII_2.png>
+Package pdftex.def Info: MgII_2.png used on input line 179.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+ <MgII_3.png, id=42, 586.8324pt x 442.2924pt>
+File: MgII_3.png Graphic file (type png)
+ <use MgII_3.png>
+Package pdftex.def Info: MgII_3.png used on input line 181.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<MgII_res_2.png, id=43, 586.8324pt x 442.2924pt>
+File: MgII_res_2.png Graphic file (type png)
+ <use MgII_res_2.png>
+Package pdftex.def Info: MgII_res_2.png used on input line 182.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<MgII_res_3.png, id=44, 586.8324pt x 442.2924pt>
+File: MgII_res_3.png Graphic file (type png)
+ <use MgII_res_3.png>
+Package pdftex.def Info: MgII_res_3.png used on input line 184.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<MgII_4.png, id=45, 586.8324pt x 442.2924pt>
+File: MgII_4.png Graphic file (type png)
+ <use MgII_4.png>
+Package pdftex.def Info: MgII_4.png used on input line 194.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<MgII_5.png, id=46, 586.8324pt x 442.2924pt>
+File: MgII_5.png Graphic file (type png)
+ <use MgII_5.png>
+Package pdftex.def Info: MgII_5.png used on input line 196.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<MgII_res_4.png, id=47, 586.8324pt x 442.2924pt>
+File: MgII_res_4.png Graphic file (type png)
+ <use MgII_res_4.png>
+Package pdftex.def Info: MgII_res_4.png used on input line 197.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<MgII_res_5.png, id=48, 586.8324pt x 442.2924pt>
+File: MgII_res_5.png Graphic file (type png)
+ <use MgII_res_5.png>
+Package pdftex.def Info: MgII_res_5.png used on input line 199.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<MgII_6.png, id=49, 586.8324pt x 442.2924pt>
+File: MgII_6.png Graphic file (type png)
+ <use MgII_6.png>
+Package pdftex.def Info: MgII_6.png used on input line 209.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<MgII_7.png, id=50, 586.8324pt x 442.2924pt>
+File: MgII_7.png Graphic file (type png)
+ <use MgII_7.png>
+Package pdftex.def Info: MgII_7.png used on input line 211.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<MgII_res_6.png, id=51, 586.8324pt x 442.2924pt>
+File: MgII_res_6.png Graphic file (type png)
+ <use MgII_res_6.png>
+Package pdftex.def Info: MgII_res_6.png used on input line 212.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<MgII_res_7.png, id=52, 586.8324pt x 442.2924pt>
+File: MgII_res_7.png Graphic file (type png)
+ <use MgII_res_7.png>
+Package pdftex.def Info: MgII_res_7.png used on input line 214.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<MgII_8.png, id=53, 586.8324pt x 442.2924pt>
+File: MgII_8.png Graphic file (type png)
+ <use MgII_8.png>
+Package pdftex.def Info: MgII_8.png used on input line 223.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<MgII_9.png, id=54, 586.8324pt x 442.2924pt>
+File: MgII_9.png Graphic file (type png)
+ <use MgII_9.png>
+Package pdftex.def Info: MgII_9.png used on input line 225.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<MgII_res_8.png, id=55, 586.8324pt x 442.2924pt>
+File: MgII_res_8.png Graphic file (type png)
+ <use MgII_res_8.png>
+Package pdftex.def Info: MgII_res_8.png used on input line 226.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<MgII_res_9.png, id=56, 586.8324pt x 442.2924pt>
+File: MgII_res_9.png Graphic file (type png)
+ <use MgII_res_9.png>
+Package pdftex.def Info: MgII_res_9.png used on input line 228.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<fe_fit_Hbeta_0.png, id=57, 586.8324pt x 442.2924pt>
+File: fe_fit_Hbeta_0.png Graphic file (type png)
+ <use fe_fit_Hbeta_0.png>
+Package pdftex.def Info: fe_fit_Hbeta_0.png used on input line 243.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<fe_fit_Hbeta_1.png, id=58, 586.8324pt x 442.2924pt>
+File: fe_fit_Hbeta_1.png Graphic file (type png)
+ <use fe_fit_Hbeta_1.png>
+Package pdftex.def Info: fe_fit_Hbeta_1.png used on input line 245.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<fe_fit_Hbeta_res_0.png, id=59, 586.8324pt x 442.2924pt>
+File: fe_fit_Hbeta_res_0.png Graphic file (type png)
+
+<use fe_fit_Hbeta_res_0.png>
+Package pdftex.def Info: fe_fit_Hbeta_res_0.png used on input line 246.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<fe_fit_Hbeta_res_1.png, id=60, 586.8324pt x 442.2924pt>
+File: fe_fit_Hbeta_res_1.png Graphic file (type png)
+
+<use fe_fit_Hbeta_res_1.png>
+Package pdftex.def Info: fe_fit_Hbeta_res_1.png used on input line 248.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<fe_fit_Hbeta_2.png, id=61, 586.8324pt x 442.2924pt>
+File: fe_fit_Hbeta_2.png Graphic file (type png)
+ <use fe_fit_Hbeta_2.png>
+Package pdftex.def Info: fe_fit_Hbeta_2.png used on input line 257.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<fe_fit_Hbeta_3.png, id=62, 586.8324pt x 442.2924pt>
+File: fe_fit_Hbeta_3.png Graphic file (type png)
+ <use fe_fit_Hbeta_3.png>
+Package pdftex.def Info: fe_fit_Hbeta_3.png used on input line 259.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<fe_fit_Hbeta_res_2.png, id=63, 586.8324pt x 442.2924pt>
+File: fe_fit_Hbeta_res_2.png Graphic file (type png)
+
+<use fe_fit_Hbeta_res_2.png>
+Package pdftex.def Info: fe_fit_Hbeta_res_2.png used on input line 260.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<fe_fit_Hbeta_res_3.png, id=64, 586.8324pt x 442.2924pt>
+File: fe_fit_Hbeta_res_3.png Graphic file (type png)
+
+<use fe_fit_Hbeta_res_3.png>
+Package pdftex.def Info: fe_fit_Hbeta_res_3.png used on input line 262.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<fe_fit_Hbeta_4.png, id=65, 586.8324pt x 442.2924pt>
+File: fe_fit_Hbeta_4.png Graphic file (type png)
+ <use fe_fit_Hbeta_4.png>
+Package pdftex.def Info: fe_fit_Hbeta_4.png used on input line 272.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<fe_fit_Hbeta_5.png, id=66, 586.8324pt x 442.2924pt>
+File: fe_fit_Hbeta_5.png Graphic file (type png)
+ <use fe_fit_Hbeta_5.png>
+Package pdftex.def Info: fe_fit_Hbeta_5.png used on input line 274.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<fe_fit_Hbeta_res_4.png, id=67, 586.8324pt x 442.2924pt>
+File: fe_fit_Hbeta_res_4.png Graphic file (type png)
+
+<use fe_fit_Hbeta_res_4.png>
+Package pdftex.def Info: fe_fit_Hbeta_res_4.png used on input line 275.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<fe_fit_Hbeta_res_5.png, id=68, 586.8324pt x 442.2924pt>
+File: fe_fit_Hbeta_res_5.png Graphic file (type png)
+
+<use fe_fit_Hbeta_res_5.png>
+Package pdftex.def Info: fe_fit_Hbeta_res_5.png used on input line 277.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<fe_fit_Hbeta_6.png, id=69, 586.8324pt x 442.2924pt>
+File: fe_fit_Hbeta_6.png Graphic file (type png)
+ <use fe_fit_Hbeta_6.png>
+Package pdftex.def Info: fe_fit_Hbeta_6.png used on input line 287.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<fe_fit_Hbeta_7.png, id=70, 586.8324pt x 442.2924pt>
+File: fe_fit_Hbeta_7.png Graphic file (type png)
+ <use fe_fit_Hbeta_7.png>
+Package pdftex.def Info: fe_fit_Hbeta_7.png used on input line 289.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<fe_fit_Hbeta_res_6.png, id=71, 586.8324pt x 442.2924pt>
+File: fe_fit_Hbeta_res_6.png Graphic file (type png)
+
+<use fe_fit_Hbeta_res_6.png>
+Package pdftex.def Info: fe_fit_Hbeta_res_6.png used on input line 290.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<fe_fit_Hbeta_res_7.png, id=72, 586.8324pt x 442.2924pt>
+File: fe_fit_Hbeta_res_7.png Graphic file (type png)
+
+<use fe_fit_Hbeta_res_7.png>
+Package pdftex.def Info: fe_fit_Hbeta_res_7.png used on input line 292.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<fe_fit_Hbeta_8.png, id=73, 586.8324pt x 442.2924pt>
+File: fe_fit_Hbeta_8.png Graphic file (type png)
+ <use fe_fit_Hbeta_8.png>
+Package pdftex.def Info: fe_fit_Hbeta_8.png used on input line 301.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<fe_fit_Hbeta_9.png, id=74, 586.8324pt x 442.2924pt>
+File: fe_fit_Hbeta_9.png Graphic file (type png)
+ <use fe_fit_Hbeta_9.png>
+Package pdftex.def Info: fe_fit_Hbeta_9.png used on input line 303.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<fe_fit_Hbeta_res_8.png, id=75, 586.8324pt x 442.2924pt>
+File: fe_fit_Hbeta_res_8.png Graphic file (type png)
+
+<use fe_fit_Hbeta_res_8.png>
+Package pdftex.def Info: fe_fit_Hbeta_res_8.png used on input line 304.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<fe_fit_Hbeta_res_9.png, id=76, 586.8324pt x 442.2924pt>
+File: fe_fit_Hbeta_res_9.png Graphic file (type png)
+
+<use fe_fit_Hbeta_res_9.png>
+Package pdftex.def Info: fe_fit_Hbeta_res_9.png used on input line 306.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+ <Hbeta_0.png, id=77, 586.8324pt x 442.2924pt>
+File: Hbeta_0.png Graphic file (type png)
+
+<use Hbeta_0.png>
+Package pdftex.def Info: Hbeta_0.png used on input line 318.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+ <Hbeta_1.png, id=78, 586.8324pt x 442.2924pt>
+File: Hbeta_1.png Graphic file (type png)
+
+<use Hbeta_1.png>
+Package pdftex.def Info: Hbeta_1.png used on input line 320.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+ <Hbeta_res_0.png, id=79, 586.8324pt x 442.2924pt>
+File: Hbeta_res_0.png Graphic file (type png)
+
+<use Hbeta_res_0.png>
+Package pdftex.def Info: Hbeta_res_0.png used on input line 321.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+ <Hbeta_res_1.png, id=80, 586.8324pt x 442.2924pt>
+File: Hbeta_res_1.png Graphic file (type png)
+
+<use Hbeta_res_1.png>
+Package pdftex.def Info: Hbeta_res_1.png used on input line 323.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+ [2 <./fe_fit_MgII_0.png> <./fe_fit_MgII_1.png> <./fe_fit_MgII_res_0.png> <./fe
+_fit_MgII_res_1.png>]
+<Hbeta_2.png, id=89, 586.8324pt x 442.2924pt>
+File: Hbeta_2.png Graphic file (type png)
+ <use Hbeta_2.png>
+Package pdftex.def Info: Hbeta_2.png used on input line 332.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<Hbeta_3.png, id=90, 586.8324pt x 442.2924pt>
+File: Hbeta_3.png Graphic file (type png)
+ <use Hbeta_3.png>
+Package pdftex.def Info: Hbeta_3.png used on input line 334.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<Hbeta_res_2.png, id=91, 586.8324pt x 442.2924pt>
+File: Hbeta_res_2.png Graphic file (type png)
+ <use Hbeta_res_2.png>
+Package pdftex.def Info: Hbeta_res_2.png used on input line 335.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<Hbeta_res_3.png, id=92, 586.8324pt x 442.2924pt>
+File: Hbeta_res_3.png Graphic file (type png)
+ <use Hbeta_res_3.png>
+Package pdftex.def Info: Hbeta_res_3.png used on input line 337.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<Hbeta_4.png, id=93, 586.8324pt x 442.2924pt>
+File: Hbeta_4.png Graphic file (type png)
+ <use Hbeta_4.png>
+Package pdftex.def Info: Hbeta_4.png used on input line 347.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<Hbeta_5.png, id=94, 586.8324pt x 442.2924pt>
+File: Hbeta_5.png Graphic file (type png)
+ <use Hbeta_5.png>
+Package pdftex.def Info: Hbeta_5.png used on input line 349.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<Hbeta_res_4.png, id=95, 586.8324pt x 442.2924pt>
+File: Hbeta_res_4.png Graphic file (type png)
+ <use Hbeta_res_4.png>
+Package pdftex.def Info: Hbeta_res_4.png used on input line 350.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<Hbeta_res_5.png, id=96, 586.8324pt x 442.2924pt>
+File: Hbeta_res_5.png Graphic file (type png)
+ <use Hbeta_res_5.png>
+Package pdftex.def Info: Hbeta_res_5.png used on input line 352.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<Hbeta_6.png, id=97, 586.8324pt x 442.2924pt>
+File: Hbeta_6.png Graphic file (type png)
+ <use Hbeta_6.png>
+Package pdftex.def Info: Hbeta_6.png used on input line 362.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<Hbeta_7.png, id=98, 586.8324pt x 442.2924pt>
+File: Hbeta_7.png Graphic file (type png)
+ <use Hbeta_7.png>
+Package pdftex.def Info: Hbeta_7.png used on input line 364.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<Hbeta_res_6.png, id=99, 586.8324pt x 442.2924pt>
+File: Hbeta_res_6.png Graphic file (type png)
+ <use Hbeta_res_6.png>
+Package pdftex.def Info: Hbeta_res_6.png used on input line 365.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<Hbeta_res_7.png, id=100, 586.8324pt x 442.2924pt>
+File: Hbeta_res_7.png Graphic file (type png)
+ <use Hbeta_res_7.png>
+Package pdftex.def Info: Hbeta_res_7.png used on input line 367.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<Hbeta_8.png, id=101, 586.8324pt x 442.2924pt>
+File: Hbeta_8.png Graphic file (type png)
+ <use Hbeta_8.png>
+Package pdftex.def Info: Hbeta_8.png used on input line 376.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<Hbeta_9.png, id=102, 586.8324pt x 442.2924pt>
+File: Hbeta_9.png Graphic file (type png)
+ <use Hbeta_9.png>
+Package pdftex.def Info: Hbeta_9.png used on input line 378.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+<Hbeta_res_8.png, id=103, 586.8324pt x 442.2924pt>
+File: Hbeta_res_8.png Graphic file (type png)
+ <use Hbeta_res_8.png>
+Package pdftex.def Info: Hbeta_res_8.png used on input line 379.
+(pdftex.def)             Requested size: 231.84338pt x 174.73395pt.
+
+<Hbeta_res_9.png, id=104, 586.8324pt x 442.2924pt>
+File: Hbeta_res_9.png Graphic file (type png)
+ <use Hbeta_res_9.png>
+Package pdftex.def Info: Hbeta_res_9.png used on input line 381.
+(pdftex.def)             Requested size: 246.96277pt x 186.13272pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3 <./fe_fit_MgII_2.png> <./fe_fit_MgII_3.png> <./fe_fit_MgII_res_2.png> <./fe
+_fit_MgII_res_3.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4 <./fe_fit_MgII_4.png> <./fe_fit_MgII_5.png> <./fe_fit_MgII_res_4.png> <./fe
+_fit_MgII_res_5.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5 <./fe_fit_MgII_6.png> <./fe_fit_MgII_7.png> <./fe_fit_MgII_res_6.png> <./fe
+_fit_MgII_res_7.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6 <./fe_fit_MgII_8.png> <./fe_fit_MgII_9.png> <./fe_fit_MgII_res_8.png> <./fe
+_fit_MgII_res_9.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [7 <./MgII_0.png> <./MgII_1.png> <./MgII_res_0.png> <./MgII_res_1.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8 <./MgII_2.png> <./MgII_3.png> <./MgII_res_2.png> <./MgII_res_3.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9 <./MgII_4.png> <./MgII_5.png> <./MgII_res_4.png> <./MgII_res_5.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10 <./MgII_6.png> <./MgII_7.png> <./MgII_res_6.png> <./MgII_res_7.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11 <./MgII_8.png> <./MgII_9.png> <./MgII_res_8.png> <./MgII_res_9.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12 <./fe_fit_Hbeta_0.png> <./fe_fit_Hbeta_1.png> <./fe_fit_Hbeta_res_0.png> <
+./fe_fit_Hbeta_res_1.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13 <./fe_fit_Hbeta_2.png> <./fe_fit_Hbeta_3.png> <./fe_fit_Hbeta_res_2.png> <
+./fe_fit_Hbeta_res_3.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14 <./fe_fit_Hbeta_4.png> <./fe_fit_Hbeta_5.png> <./fe_fit_Hbeta_res_4.png> <
+./fe_fit_Hbeta_res_5.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [15 <./fe_fit_Hbeta_6.png> <./fe_fit_Hbeta_7.png> <./fe_fit_Hbeta_res_6.png> <
+./fe_fit_Hbeta_res_7.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16 <./fe_fit_Hbeta_8.png> <./fe_fit_Hbeta_9.png> <./fe_fit_Hbeta_res_8.png> <
+./fe_fit_Hbeta_res_9.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17 <./Hbeta_0.png> <./Hbeta_1.png> <./Hbeta_res_0.png> <./Hbeta_res_1.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18 <./Hbeta_2.png> <./Hbeta_3.png> <./Hbeta_res_2.png> <./Hbeta_res_3.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19 <./Hbeta_4.png> <./Hbeta_5.png> <./Hbeta_res_4.png> <./Hbeta_res_5.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20 <./Hbeta_6.png> <./Hbeta_7.png> <./Hbeta_res_6.png> <./Hbeta_res_7.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21 <./Hbeta_8.png> <./Hbeta_9.png> <./Hbeta_res_8.png> <./Hbeta_res_9.png>]
+(./plots_mg.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3471 strings out of 493485
+ 46363 string characters out of 3143527
+ 111828 words of memory out of 3000000
+ 6648 multiletter control sequences out of 15000+200000
+ 15912 words of font info for 58 fonts, out of 3000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 36i,11n,34p,291b,293s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8
+.pfb>
+Output written on plots_mg.pdf (21 pages, 3560911 bytes).
+PDF statistics:
+ 277 PDF objects out of 1000 (max. 8388607)
+ 82 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 401 words of extra memory for PDF output out of 10000 (max. 10000000)
+

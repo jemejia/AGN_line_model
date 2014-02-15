@@ -1,0 +1,7 @@
+#Line   Flux (erg/s/cm^2)     Amplitude (erg/s/cm^2)    FWHM (Angstrom)   Luminosity (erg/s)unknown_6  1.7477192193e+48  3.10765694162e+48  0.528331350003 2.66405355533e+106 6655.7796523
+#Line   Flux (erg/s/cm^2)     Amplitude (erg/s/cm^2)    FWHM (Angstrom)   Luminosity (erg/s)unknown_7  6.99087687721e+49  3.10765694162e+48  21.1332540001 1.06562142213e+108 6670.1596523
+#Line   Flux (erg/s/cm^2)     Amplitude (erg/s/cm^2)    FWHM (Angstrom)   Luminosity (erg/s)unknown_4  9.4529478779e+49  6.85851028536e+48  12.9480765656 1.44091563017e+108 6596.67818176
+#Line   Flux (erg/s/cm^2)     Amplitude (erg/s/cm^2)    FWHM (Angstrom)   Luminosity (erg/s)unknown_5  2.39693807282e+49  4.37118276079e+49  0.515140433051 3.65365976655e+107 6638.25113354
+#Line   Flux (erg/s/cm^2)     Amplitude (erg/s/cm^2)    FWHM (Angstrom)   Luminosity (erg/s)unknown_2  2.83588436337e+50  2.05755308561e+49  12.9480765656 4.32274689052e+108 6561.34818176
+#Line   Flux (erg/s/cm^2)     Amplitude (erg/s/cm^2)    FWHM (Angstrom)   Luminosity (erg/s)unknown_3  8.1273342094e+51  1.07031148515e+50  71.3355022226 1.23885194811e+110 6568.54509839
+#Line   Flux (erg/s/cm^2)     Amplitude (erg/s/cm^2)    FWHM (Angstrom)   Luminosity (erg/s)unknown_1  6.63837433788e+51  2.63611310955e+49  236.573169049 1.0118893562e+110 6558.24354359
