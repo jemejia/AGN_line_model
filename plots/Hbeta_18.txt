@@ -1,6 +1,6 @@
-#Line   Flux (erg/s/cm^2)     Amplitude (erg/s/cm^2)    FWHM (Angstrom)   Luminosity (erg/s)unknown_4  1.5545285945e+50  9.28979929118e+48  15.720276259 2.36957251675e+108 4948.44487279
-#Line   Flux (erg/s/cm^2)     Amplitude (erg/s/cm^2)    FWHM (Angstrom)   Luminosity (erg/s)unknown_5  4.71069271062e+50  2.8150906943e+49  15.720276259 7.18052277802e+108 4996.37487279
-#Line   Flux (erg/s/cm^2)     Amplitude (erg/s/cm^2)    FWHM (Angstrom)   Luminosity (erg/s)unknown_2  1.00696905668e+51  1.22477680985e+49  77.2372780681 1.53492589995e+109 4877.5244
-#Line   Flux (erg/s/cm^2)     Amplitude (erg/s/cm^2)    FWHM (Angstrom)   Luminosity (erg/s)unknown_3  1.84034957127e+51  2.23841988672e+49  77.2372066273 2.80525027375e+109 4877.5244
-#Line   Flux (erg/s/cm^2)     Amplitude (erg/s/cm^2)    FWHM (Angstrom)   Luminosity (erg/s)unknown_1  0.0  0.0  312.074414338 0.0 4670.03116667
-#Line   Flux (erg/s/cm^2)     Amplitude (erg/s/cm^2)    FWHM (Angstrom)   Luminosity (erg/s)H_4-2  1.06893227307e+50  1.4748750357e+49  6.80867735516 1.62937661326e+108 4863.41659481
+#Line   Flux (erg/s/cm^2)     Amplitude (erg/s/cm^2)    FWHM (Angstrom)   Luminosity (erg/s)unknown_4  1.59102608412e+50  9.50790679617e+48  15.720276259 2.42520574771e+108 4948.47117909
+#Line   Flux (erg/s/cm^2)     Amplitude (erg/s/cm^2)    FWHM (Angstrom)   Luminosity (erg/s)unknown_5  4.82129116401e+50  2.88118387763e+49  15.720276259 7.34910832638e+108 4996.40117909
+#Line   Flux (erg/s/cm^2)     Amplitude (erg/s/cm^2)    FWHM (Angstrom)   Luminosity (erg/s)unknown_2  9.74459949725e+50  1.17285558127e+49  78.0525768041 1.48537217244e+109 4877.5244
+#Line   Flux (erg/s/cm^2)     Amplitude (erg/s/cm^2)    FWHM (Angstrom)   Luminosity (erg/s)unknown_3  1.93544135329e+51  2.32948566502e+49  78.0526699656 2.95019895726e+109 4877.5244
+#Line   Flux (erg/s/cm^2)     Amplitude (erg/s/cm^2)    FWHM (Angstrom)   Luminosity (erg/s)unknown_1  0.0  0.0  317.648909757 0.0 4670.03116667
+#Line   Flux (erg/s/cm^2)     Amplitude (erg/s/cm^2)    FWHM (Angstrom)   Luminosity (erg/s)H_4-2  1.06649885291e+50  1.47375833012e+49  6.79832479747 1.62566734374e+108 4863.42308881
