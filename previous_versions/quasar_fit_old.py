@@ -12,7 +12,8 @@ cosmo = FlatLambdaCDM(H0=70, Om0=0.3)
 xmin=1250
 xmax=9000
 n_spec=1
-
+sp_to_run=[1,3,4,8,9,11,15,16,18,20,22,24,27]
+sp_to_run=[1]
 def continuous_substraction( spec_number, magorder=-16):
     z=np.loadtxt("redshift_list.txt")
     model=np.loadtxt("./model/cont_model_" + str(spec_number) + ".txt")
@@ -804,12 +805,12 @@ xmax_Halpha=6800
 
 
 
-for i in range(n_spec,13):
-    
+
+for i in sp_to_run:    
 
     #------------------- -------Shared features for fitting. Finished -----------------------#
     #------------opening spectrum i---------------------#
-    spectrum_file='../AGN_spectra/spectrum' + str(i) + '.txt'
+    spectrum_file='./AGN_spectra/spectrum' + str(i) + '.txt'
     sp = pyspeckit.Spectrum(spectrum_file)
     #sp.smooth(2)
     #------------opening spectrum i---------------------#
@@ -830,7 +831,7 @@ for i in range(n_spec,13):
     copy.plotter(xmin=xmin,xmax=6900,ymin=-1.3*np.abs(copy2.data.min()),ymax=1.1*copy1.data.max())
     copy3.plotter(xmin=xmin,xmax=6900,ymin=-1.3*np.abs(copy2.data.min()),ymax=1.1*copy1.data.max())
     #----------starting  plotter--------------#
-
+    
 
     #-------------continuous fitting-------------------#
     exclude_file = "./excludes/exclude_cont.txt"
@@ -843,7 +844,7 @@ for i in range(n_spec,13):
     wlmin=sp.xarr[0]
     wlmax=sp.xarr[-1]
     
-    
+    """
     pylab.xscale('log')#,subsx=[3,4])
     """
     copy.baseline.powerlaw=True
@@ -887,6 +888,7 @@ for i in range(n_spec,13):
     
     plot_file="./plots/continuous_" + str(i) + ".png"
     copy.plotter.figure.savefig(plot_file)
+    pylab.show()
     """
     #pylab.xscale('log',subsx=[3,4])
     
@@ -1007,6 +1009,7 @@ for i in range(n_spec,13):
     print len(balmer_template.data)
     total=continuous +  Halpha_fit + Hbeta_fit + C_fit + fe_fit  + balmer_data + Si_fit + Mg_fit
     """
+    """
     fitmin=sp.specfit.xmin
     fitmax=sp.specfit.xmax
     pylab.figure()
@@ -1016,6 +1019,7 @@ for i in range(n_spec,13):
     pylab.plot(sp.xarr,sp.data - mg_fit )
     
     pylab.savefig("Hbeta_fe_fit_"+str(i)+".pdf")
+    """
     """
     pylab.figure()
     pylab.ylim(ymin=-1.3*np.abs(copy1.data.min()),ymax=1.1*copy1.data.max())
@@ -1042,7 +1046,7 @@ for i in range(n_spec,13):
 
 
     print L_cont
-
+"""
 
 
 """
